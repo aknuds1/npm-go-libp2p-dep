@@ -1,8 +1,8 @@
 {
-  "name": "go-libp2p-dep",
+  "name": "@arve.knudsen/go-libp2p-dep",
   "version": "0.1.0",
   "description": "Install the latest go-libp2p binary",
-  "leadMaintainer": "Vasco Santos <santos.vasco10@gmail.com>",
+  "leadMaintainer": "Arve Knudsen <arve.knudsen@gmail.com>",
   "main": "src/index.js",
   "engines": {
     "node": ">=6.0.0",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/libp2p/npm-go-libp2p-dep.git"
+    "url": "git+https://github.com/aknuds1/npm-go-libp2p-dep.git"
   },
   "dependencies": {
     "go-platform": "^1.0.0",
@@ -30,9 +30,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/libp2p/npm-go-libp2p-dep/issues"
+    "url": "https://github.com/aknuds1/npm-go-libp2p-dep/issues"
   },
-  "homepage": "https://github.com/libp2p/npm-go-libp2p-dep",
+  "homepage": "https://github.com/aknuds1/npm-go-libp2p-dep",
   "devDependencies": {
     "rimraf": "^2.6.3",
     "standard": "^12.0.1",
