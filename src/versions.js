@@ -7,8 +7,8 @@ module.exports = {
     'linux': 'QmaX7i8cFkVoN8FmgLhNaxfapkQrztpuChdMRgcYDZQmq1',
     'win32': 'Qme6SrCD6fm8AFmH9kA5BYwyz3fBq2QjrsxePen5Xoy9R1'
   },
-  'v0.2.0': {
-    'darwin': 'QmXx2sZhzRfrzytxFCSjKQ7u2xzrotU1PQN2n5tPAKoGTM',
+  'v0.2.1': {
+    'darwin': 'QmTzdt4AuPiCBzDD4ZiQXkyLaczRUftcZ4CMdjiAGV94gC',
   },
   // Old gx format releases
   'v6.0.30': {
